@@ -1,2 +1,2 @@
-Test conflict
-Person2 changes
+Test conflict P1 modify Person2 changes
+
